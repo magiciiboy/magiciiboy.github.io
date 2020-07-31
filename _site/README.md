@@ -1,4 +1,3 @@
-example
+Tung Huynh's Website
 =======
 
-Jekyll example Project site
