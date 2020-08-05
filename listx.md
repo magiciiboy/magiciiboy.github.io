@@ -11,7 +11,7 @@ My list of things I wanna do before I leave this life.
 1. ~ Challenge the Status Quo
 1. ~ Act Like an Entrepreneur
 1. ~ Have an “It can be done, it can be improved” Attitude
-1. [ ] Get married with the one i love
+1. [x] Get married with the one i love
 1. [ ] Be a good father
 1. [x] Visit America
 1. [ ] Visit North Pole
