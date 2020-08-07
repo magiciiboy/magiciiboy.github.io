@@ -20,3 +20,5 @@ My list of things I wanna do before I leave this life.
 1. [x] Start my own company (I had two)
 1. [ ] Start a non profit organization
 1. [ ] Drive a boat/ship with a license
+1. [ ] Have a trip to Son Doong cave
+1. [ ] Read 500 books
